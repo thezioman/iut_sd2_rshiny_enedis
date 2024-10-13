@@ -15,7 +15,7 @@ library(webshot)
 
 
 # Charger les données 
-df <-  read.csv("C:/Users/ugo/Downloads/logements_69.csv", header = TRUE, dec = ".", sep = ",", stringsAsFactors = FALSE)
+df <-  read.csv("logements_69.csv", header = TRUE, dec = ".", sep = ",", stringsAsFactors = FALSE)
 
 # Prétraitement des données
 df$Emission_GES_5_usages <- as.numeric(df$Emission_GES_5_usages)
