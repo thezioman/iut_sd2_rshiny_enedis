@@ -5,7 +5,9 @@ Les données qui nous ont été fournies ont été basées sur une étude des lo
 
 Pour réaliser ce projet, nous avons dans un premier temps extrait les données de L'API( Final_logement.R) à l'aide d'une boucle R puis construit l'interface avec R shiny(Rendu Rshiny.R), pour pouvoir exporter les données de logements_final, vous devet d'abord telecharger les données :https://github.com/asardell/IUT_SD2/blob/d68ff4388b71e66d64de79dc580b1775d3b80413/data/adresses-69.csv.
 
-Notre interface est composée de 3 pages, l'une destinée à la visualisation des données sans créer de croisements entre elle, la seule modalité que vous pouvez changer est un filtre sur les différents codes postaux. La deuxième page est une carte où vous pouvez voir où se situer les logements mentionnés dans les départements du Rhône et la dernière page vous permettra de voir les différentes analyses que nous avons pus faire avec les croisements de données.
+Notre interface est composée de 3 pages, l'une destinée à la visualisation des données sans créer de croisements entre elle, la seule modalité que vous pouvez changer est un filtre sur les différents codes postaux. La deuxième page est une carte où vous pouvez voir où se situer les logements mentionnés dans les départements du Rhône et la dernière page vous permettra de voir les différentes analyses que nous avons pus faire avec les croisements de données, l'application n'a pas pus être deployée sur internet car nous avons rencontrée une erreur qui nous indiqués que le fichier était trop grand.
 
 Pour accedé au site:  - identifiant: user
                       - mot de passe: user 
+
+Nous mettons aussi à disposition une documentation fonctionnel et technique de l'application
