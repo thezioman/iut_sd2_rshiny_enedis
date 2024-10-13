@@ -83,4 +83,4 @@ neufs_communes <- neufs_df %>% select(all_of(colonnes_communes))
 logements_df <- bind_rows(existants_communes, neufs_communes)
 
 # Exporter le résultat dans un fichier CSV
-write_csv(logements_df, "logements_69test.csv")
+write_csv(logements_df, "logements_69.csv")
