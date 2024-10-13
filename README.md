@@ -6,3 +6,6 @@ Les données qui nous ont été fournies ont été basées sur une étude des lo
 Pour réaliser ce projet, nous avons dans un premier temps extrait les données de L'API à l'aide d'une boucle R puis construit l'interface avec R_shiny.
 
 Notre interface est composée de 3 pages, l'une destinée à la visualisation des données sans créer de croisements entre elle, la seule modalité que vous pouvez changer est un filtre sur les différents codes postaux. La deuxième page est une carte où vous pouvez voir où se situer les logements mentionnés dans les départements du Rhône et la dernière page vous permettra de voir les différentes analyses que nous avons pus faire avec les croisements de données.
+
+Pour accedé au site:  identifiant:user
+                      mot de passe: user 
